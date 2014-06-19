@@ -1,0 +1,5 @@
+jar {
+    manifest {
+        attributes 'Main-Class': 'your.Package.and.main.Class'
+    }
+}
